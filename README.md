@@ -4,7 +4,8 @@ Practise on (PHP, MySQL, jQuery)
 
 ------------------------
 
-Course (تصميم و برمجة موقع eCommerce)
+Course (E-Commerce تصميم و برمجة موقع)
+
 https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU
 
- Channel : Elzero Web School
+Channel : Elzero Web School
