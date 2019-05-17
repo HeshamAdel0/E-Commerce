@@ -6,7 +6,7 @@ Practise on (PHP, MySQL, jQuery)
 
 ------------------------
 
-Course (E-Commerce تصميم و برمجة موقع)
+Course (E-Commerce)
 
 https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU
 
